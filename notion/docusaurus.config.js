@@ -14,13 +14,11 @@ const config = {
 
   // Set the production url of your site here
      //*****TotemTemplate*****
-  url: 'https://chichunhuang.github.io',
-  //url: 'https://notion.insect-totem.net',
+  url: 'https://notion.insect-totem.net',
   
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/nymph/', // gitpages: set same as projectName 
-  //baseUrl: '/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
