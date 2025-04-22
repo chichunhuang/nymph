@@ -19,7 +19,7 @@ const config = {
   
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/notion/', // gitpages: set same as projectName 
+  baseUrl: '/nymph/', // gitpages: set same as projectName 
   //baseUrl: '/',
 
   // GitHub pages deployment config.
