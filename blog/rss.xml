@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Insect Totem Blog</title>
-        <link>https://chichunhuang.github.io/nymph/blog</link>
+        <link>https://notion.insect-totem.net/blog</link>
         <description>Insect Totem Blog</description>
         <lastBuildDate>Sun, 03 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>zh-tw</language>
         <item>
             <title><![CDATA[昆蟲圖騰重新上架]]></title>
-            <link>https://chichunhuang.github.io/nymph/blog/insect-totem-is-coming</link>
-            <guid>https://chichunhuang.github.io/nymph/blog/insect-totem-is-coming</guid>
+            <link>https://notion.insect-totem.net/blog/insect-totem-is-coming</link>
+            <guid>https://notion.insect-totem.net/blog/insect-totem-is-coming</guid>
             <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[* 以前註冊的是 www.insect-totem.tw]]></description>
             <content:encoded><![CDATA[<ul>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotion=self.webpackChunknotion||[]).push([[8845],{1056:e=>{e.exports=JSON.parse('{"tags":[{"label":"Insect-Totem","permalink":"/nymph/blog/tags/insect-totem","count":1}]}')}}]);
