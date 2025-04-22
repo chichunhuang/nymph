@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotion=self.webpackChunknotion||[]).push([[6219],{6432:t=>{t.exports=JSON.parse('{"tags":[{"label":"Insect-Totem","permalink":"/notion/blog/tags/insect-totem","count":1}]}')}}]);
