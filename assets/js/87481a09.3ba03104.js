@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotion=self.webpackChunknotion||[]).push([[3015],{1971:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/notion/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chichunhuang.github.io/notion/blog</id>
+    <id>https://chichunhuang.github.io/nymph/blog</id>
     <title>Insect Totem Blog</title>
     <updated>2023-12-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chichunhuang.github.io/notion/blog"/>
+    <link rel="alternate" href="https://chichunhuang.github.io/nymph/blog"/>
     <subtitle>Insect Totem Blog</subtitle>
-    <icon>https://chichunhuang.github.io/notion/img/70_70.jpg</icon>
+    <icon>https://chichunhuang.github.io/nymph/img/70_70.jpg</icon>
     <entry>
         <title type="html"><![CDATA[昆蟲圖騰重新上架]]></title>
-        <id>https://chichunhuang.github.io/notion/blog/insect-totem-is-coming</id>
-        <link href="https://chichunhuang.github.io/notion/blog/insect-totem-is-coming"/>
+        <id>https://chichunhuang.github.io/nymph/blog/insect-totem-is-coming</id>
+        <link href="https://chichunhuang.github.io/nymph/blog/insect-totem-is-coming"/>
         <updated>2023-12-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[* 以前註冊的是 www.insect-totem.tw]]></summary>
         <content type="html"><![CDATA[<ul>

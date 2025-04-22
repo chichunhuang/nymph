@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotion=self.webpackChunknotion||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/notion/en/blog","blogTitle":"Blog","authorsListPath":"/notion/en/blog/authors"}')}}]);
