@@ -132,7 +132,7 @@ const config = {
                    //*****TotemTemplate*****
                 label: 'Notion 筆記',
                    //*****TotemTemplate*****
-                to: '/docs/docs-map',
+                to: '/docs/00_docs-map',
               },
              // {
               //  label: '我的插圖',
