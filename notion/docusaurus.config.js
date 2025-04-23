@@ -36,6 +36,20 @@ const config = {
     defaultLocale: 'zh-tw',
     locales: ['en','zh-tw'],
   },
+  
+  stylesheets: [
+    'https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css',
+  ],
+  scripts: [
+    {
+      src: 'https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js',
+      async: true,
+    },
+    {
+      src: '/js/init-cookieconsent.js',
+      async: true,
+    },
+  ],  
 
   presets: [
     [
@@ -126,7 +140,20 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Privacy Policy',
+            items: [
+              {
+                label: 'Privacy Policy(English)',
+                to: '/docs/PrivacyPolicy_Eng',
+              },
+              {
+                label: '隱私權政策',
+                to: '/docs/PrivacyPolicy_zh_tw',
+              },
+            ],
+          },
+          {
+            title: 'More',
             items: [
               {
                    //*****TotemTemplate*****
@@ -134,15 +161,6 @@ const config = {
                    //*****TotemTemplate*****
                 to: '/docs/docs-map',
               },
-             // {
-              //  label: '我的插圖',
-             //   to: '/docs/Graphics/docs-map',
-             // },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
               {
                    //*****TotemTemplate*****
                 label: 'Blog',
