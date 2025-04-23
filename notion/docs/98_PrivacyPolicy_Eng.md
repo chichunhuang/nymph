@@ -3,7 +3,7 @@ title: Privacy Policy
 description: Privacy Policy
 ---
 
-* Privacy Policy : [Traditional Chinese Version/中文版隱私權政策](./PrivacyPolicy_zh_tw)
+* Privacy Policy : [Traditional Chinese Version/中文版隱私權政策](https://notion.insect-totem.net/docs/PrivacyPolicy_Eng/PrivacyPolicy_zh_tw)
 
 ## Privacy Policy
 
