@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotion=self.webpackChunknotion||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u6606\u87f2\u5716\u9a30\u91cd\u65b0\u4e0a\u67b6","permalink":"/en/blog/insect-totem-is-coming","unlisted":false,"date":"2023-12-03T00:00:00.000Z"}]}')}}]);
